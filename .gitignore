@@ -30,3 +30,12 @@ medivora.db
 
 # tesseract data
 *.traineddata
+
+# Local documentation (kept locally, not on GitHub)
+BEFORE_AFTER_GUIDE.md
+DEPLOYMENT_CHECKLIST.md
+FRONTEND_MIGRATION.md
+PROJECT_STRUCTURE.md
+QUICK_START.md
+README_REFACTORING.md
+REFACTORING_SUMMARY.md
